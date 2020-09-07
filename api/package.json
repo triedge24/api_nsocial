@@ -4,10 +4,11 @@
   "description": "Proyecto basado en compra venta para pymes",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "giot",
     "url": "\u001b[200~https://github.com/triedge24/api_nsocial.git\u001b[201~"
   },
   "author": "srodrigez,plerzundi y mflores",
