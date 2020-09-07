@@ -1,0 +1,18 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Proyecto basado en compra venta para pymes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[200~https://github.com/triedge24/api_nsocial.git\u001b[201~"
+  },
+  "author": "srodrigez,plerzundi y mflores",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.3"
+  }
+}
